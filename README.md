@@ -1,6 +1,7 @@
 # Global Shark Attack
 EDA of incidence of shark attack across 195 countries and their related causes and preventions.
 
+
 Shark attacks reported over the past 100 years, including location, activity, victim info (name, gender, age), shark species, etc.
 
 This dashboard includes the following insights as required of me:
